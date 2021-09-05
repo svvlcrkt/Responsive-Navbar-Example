@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org
 ### About The Project:
 * You can access links by clicking the menu icon under 800px.
 * If it is above 800px, there is no menu icon because links are visible.
+* In this project, media queries were used for responsive design.
 
 ### PROJECT VİEW:
 
