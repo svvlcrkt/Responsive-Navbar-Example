@@ -1,6 +1,13 @@
 # *Responsive-Navbar-Example*
 
-*Online demo:*
+## *Summary About The Project*
+*Hello, all! 
+Now I am learning <b>JavaScript</b> and I am trying to make a project with the help of the video. This video is located under "Used Resources".
+This is my 4th project in this series.  In addition, I am learning <b>jQuery</b>. I am uploading both <b>JavaScript</b> and <b>jQuery</b> files to the project files.*<br><br>
+*<b>Finally;</b>
+you can also acces my [1st project](https://github.com/svvlcrkt/Simple-Color-Flipper), [2nd project](https://github.com/svvlcrkt/Counter-Example) and [3rd project](https://github.com/svvlcrkt/Reviews-Example) files*.
+
+## *Online demo:*
 *https://responsive-navbar-example.netlify.app/*
 
 ## *Used Technologies*
